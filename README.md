@@ -6,9 +6,8 @@
 - 📫 How to reach me **afraa1111@hotmail.com**
                       **https://www.linkedin.com/in/afraa-elhag-5b00b670/**
 
-- 📄 Know about my experiences [Backend Developer with 3+ years of full stack experience in designing and developing web applications. Proven ability to develop web applications using Laravel framework across multiple APIs, third-party integrations and databases. Well-versed in Front-End development.](Backend Developer with 3+ years of full stack experience in designing and developing web applications. Proven ability to develop web applications using Laravel framework across multiple APIs, third-party integrations and databases. Well-versed in Front-End development.)
+- 📄 Know about my experiences : Backend Developer with 3+ years of full stack experience in designing and developing web applications. Proven ability to develop web applications using Laravel framework across multiple APIs, third-party integrations and databases. Well-versed in Front-End development.](Backend Developer with 3+ years of full stack experience in designing and developing web applications. Proven ability to develop web applications using Laravel framework across multiple APIs, third-party integrations and databases. Well-versed in Front-End development.
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
